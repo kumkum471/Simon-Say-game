@@ -1,2 +1,3 @@
-# Simon-Say-game
-This is Simon Say Game .
+# NEW PROJECT
+
+This is my new project of simon say game
